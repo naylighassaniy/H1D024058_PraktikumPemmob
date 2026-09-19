@@ -12,4 +12,7 @@
 <img width="776" height="1600" alt="WhatsApp Image 2026-09-17 at 11 06 17" src="https://github.com/user-attachments/assets/a05403be-a792-49ca-b7fa-45a4afe44335" />
 <img width="776" height="1600" alt="WhatsApp Image 2026-09-17 at 11 06 17 (1)" src="https://github.com/user-attachments/assets/d527e70a-ad78-4de5-9170-5d1f68a6d191" />
 
+# Pertemuan 3
+<img width="738" height="1600" alt="Pertemuan 3" src="screenshots/pertemuan_3.jpg" />
+
 ---
